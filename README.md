@@ -3,6 +3,6 @@
 A new Flutter project.
 
 ## Getting Started
-![Screenshot](screenshots/1.png)
+![Screenshot](screenshots/1.PNG)
 
 
